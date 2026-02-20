@@ -1,0 +1,5 @@
+101,Standard,50,true
+102,Deluxe,100,true
+103,Suite,200,true
+104,Standard,50,true
+105,Suite,200,true
